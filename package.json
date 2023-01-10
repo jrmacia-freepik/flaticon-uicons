@@ -1,5 +1,5 @@
 {
-  "name": "@flaticon/flaticon-uicons",
+  "name": "flaticon-test-uicons",
   "description": "Interface icons from Flaticon",
   "version": "1.7.1",
   "main": "index.js",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/flaticon/flaticon-uicons"
+    "url": "git+https://github.com/flaticon/flaticon-uicons.git"
   },
   "keywords": [
     "icons",
