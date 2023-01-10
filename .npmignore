@@ -1,3 +1,6 @@
 src
 esbuild.js
 tsconfig.json
+svg
+lib
+svgo.config.js
